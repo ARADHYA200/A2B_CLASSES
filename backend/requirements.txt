@@ -1,0 +1,6 @@
+click==8.4.0
+colorama==0.4.6
+platformdirs==4.9.6
+wasmtime==44.0.0
+yowasp-runtime==1.93
+yowasp-yosys==0.65.0.0.post1154
